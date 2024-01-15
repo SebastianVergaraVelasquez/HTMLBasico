@@ -1,0 +1,14 @@
+{   
+    "primerEmpleo":{
+        "cargo":"Resort worker",
+        "lugar":"IRNP USA",
+        "inicio":2022,
+        "final":2022
+    },
+    "segundoEmpleo":{
+        "cargo":"Operador servicio al cliente",
+        "lugar":"Accedo",
+        "inicio":2022,
+        "final":2023
+    }
+}
