@@ -2,17 +2,17 @@
     "Primaria": {
         "inicio": 2004,
         "final":2009,
-        "colegio": "iggm"
+        "colegio": "Instituto Gabriel Garcia Marquez"
     }, 
     "secundaria": {
         "inicio": 2004,
         "final":2009,
-        "colegio": "iggm"
+        "colegio": "Instituto Gabriel Garcia Marquez"
     },
     "Pregrado":{
         "inicio": 2014,
         "final":2020,
-        "universidad": "uis"
+        "universidad": "Universidad Industrial de Santander"
     },
     "conocimientos varios": ["Ingles B2","Python basico", "csharp basico"]
 }
